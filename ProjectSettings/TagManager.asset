@@ -6,6 +6,8 @@ TagManager:
   tags:
   - bullet
   - target
+  - waypoint
+  - end
   layers:
   - Default
   - TransparentFX
